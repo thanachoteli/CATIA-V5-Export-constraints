@@ -2,7 +2,7 @@
 1. Make sure all dependencie is installed: pycatia (https://pycatia.readthedocs.io/en/latest/installation.html)
 2. Then git clone this repo 
 ```python
-git clone [HTTPS]
+git clone https://github.com/thanachoteli/CATIA-V5-Export-constraints.git
 ```
 3. Open the terminal/command prompt
 4. Type into terminal
